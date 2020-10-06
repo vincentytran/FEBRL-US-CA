@@ -1,3 +1,12 @@
+This fork modifies Febrl to generate US looking demographics.
+
+- Currently can generate United States (US) looking addresses, phone numbers, SSN.
+- TODO: Generate Canada (CA) demographics.
+- TODO: Generate better addresses using real states/cities.
+
+Vincent Tran
+vincent@imt.ca
+
 Febrl (Freely extensible biomedical record linkage) Version 0.4.2
 
 Copyright 2002 - 2011 Australian National University and others.
