@@ -5,7 +5,8 @@ This fork modifies Febrl to generate US looking demographics.
 - TODO: Generate better addresses using real states/cities.
 
 Vincent Tran
-vincent@imt.ca
+https://www.imt.ca
+
 
 Febrl (Freely extensible biomedical record linkage) Version 0.4.2
 
