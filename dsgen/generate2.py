@@ -640,8 +640,8 @@ phonenum_dict = {'name':'phone_number',
            'char_range':'digit',
                'depend':'state',
           'lookup_file':'data'+os.sep+'state-areacode-lookup.tbl',
-           'area_codes':['02','03','04','07','08'],  # Australian area codes
-           'num_digits':8,                    # For Australian phone numbers
+           'area_codes':['204','416','708'],  # Australian area codes
+           'num_digits':7,                    # For Australian phone numbers
           'select_prob':0.05,
           'depend_prob':0.90,
              'ins_prob':0.00,
@@ -662,8 +662,8 @@ phonenum_dict = {'name':'phone_number',
 ssid_dict = {'name':'soc_sec_id',
              'type':'ident',
        'char_range':'digit',
-         'start_id':1000000,
-           'end_id':9999999,
+         'start_id':100000000,
+           'end_id':999999999,
       'select_prob':0.05,
          'ins_prob':0.00,
          'del_prob':0.00,
